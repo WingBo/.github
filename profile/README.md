@@ -14,3 +14,8 @@
 - [朱子家训](https://github.com/WingBo/zhuzijiaxun) [online](https://wingbo.github.io/zhuzijiaxun/)
 
 
+### 寓言
+
+- [china-fable](https://github.com/WingBo/china-fable) 《中国寓言网》归档 [online](https://wingbo.github.io/china-fable/)
+
+

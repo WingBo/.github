@@ -16,6 +16,6 @@
 
 ### 寓言
 
-- [china-fable](https://github.com/WingBo/china-fable) 《中国寓言网》归档 [online](https://wingbo.github.io/china-fable/)
+- [china-fable](https://github.com/WingBo/china-fable) 《中国寓言网》5d6d 论坛归档 [online](https://wingbo.github.io/china-fable/)
 
 

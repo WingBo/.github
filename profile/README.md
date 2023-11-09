@@ -10,5 +10,6 @@
 - [百家姓](https://github.com/WingBo/baijiaxing) [online](https://wingbo.github.io/baijiaxing/)
 - [千字文](https://github.com/WingBo/qianziwen)  [online](https://wingbo.github.io/qianziwen/)
 - [三字经](https://github.com/WingBo/sanzijing) [online](https://wingbo.github.io/sanzijing/)
+- [弟子规](https://github.com/WingBo/dizigui) [online](https://wingbo.github.io/dizigui/)
 
 

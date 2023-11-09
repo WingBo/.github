@@ -11,5 +11,6 @@
 - [千字文](https://github.com/WingBo/qianziwen)  [online](https://wingbo.github.io/qianziwen/)
 - [三字经](https://github.com/WingBo/sanzijing) [online](https://wingbo.github.io/sanzijing/)
 - [弟子规](https://github.com/WingBo/dizigui) [online](https://wingbo.github.io/dizigui/)
+- [朱子家训](https://github.com/WingBo/zhuzijiaxun) [online](https://wingbo.github.io/zhuzijiaxun/)
 
 
